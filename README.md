@@ -1,0 +1,2 @@
+# Complain-Management-System
+Complain Management System project is used to manage customers complain. Here the user can login, and create complain, view complain details and track the status of its complain. Admin can login and view all complain details, assign the complain to specific Engineer. The Engineer can work and check the status of assigned complain. Once completed Engineer can close the complain.
